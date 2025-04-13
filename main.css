@@ -1,0 +1,79 @@
+.poiret-one-regular {
+    font-family: "Poiret One", sans-serif;
+    font-weight: 200;
+    font-style: normal;
+}
+
+
+
+.up-menu{
+
+
+    display: flex;
+    
+    justify-content: space-around;
+    background-color: rgb(156, 243, 243);
+    position: sticky;
+    top: 0px;
+}
+
+.text-up{
+
+
+    font-size: small;
+    color: rgb(1, 1, 73);
+}
+.Zagl{
+
+    text-align: center;
+    color: black;
+    font-size: small;
+    font-family: "Poiret One", sans-serif;
+}
+
+body{
+
+
+    margin: 0px;
+}
+.I{
+
+    text-align: center;
+}
+.Zagl2{
+
+    text-align: center;
+    color: black;
+    font-size: small;
+    font-family: "Poiret One", sans-serif;
+}
+.B{
+
+
+    display: grid;
+    
+    grid-template-columns: repeat(4, 120px);
+    grid-template-rows: 120px 110px;
+    justify-content: center;
+    border: solid 2px;
+}
+.pod{
+
+    font-family: "Poiret One", sans-serif;
+}
+
+.Zagl3{
+
+    text-align: center;
+}
+.Tovary{
+    display: grid;
+    grid-template-columns: repeat(5, 160px);
+    grid-template-rows: 170px 50px;
+    justify-content: center;
+    border: solid 2px;
+    background-color: black;
+}
+.sell{
+    color: aliceblue;
+}
