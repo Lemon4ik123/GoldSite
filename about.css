@@ -1,0 +1,48 @@
+
+
+.mulish-<uniquifier> {
+    font-family: "Mulish", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: <weight>;
+    font-style: normal;
+  }
+
+
+.montserrat-<uniquifier> {
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: <weight>;
+    font-style: normal;
+}
+
+body{
+
+    background-image: url(https://m.media-amazon.com/images/S/aplus-media-library-service-media/07909bfd-c45c-4330-9ec8-1541aa2d17b0.__CR0,135,5616,3474_PT0_SX970_V1___.jpg);
+
+    background-repeat: no-repeat;
+
+    background-size: cover;
+}
+
+.History{
+    margin-top: 30px;
+    margin-left: 50px;
+    color: gray;
+
+    font-family: "Mulish", sans-serif;
+
+}
+.text{
+    margin-left: 50px;
+    color:rgb(0, 0, 0);
+    font-family: "Montserrat", sans-serif;
+    text-shadow: 1px 1px white;
+    
+
+}
+.back{
+    margin-left: 50px;
+    color: rgb(14, 153, 228);
+
+
+}
